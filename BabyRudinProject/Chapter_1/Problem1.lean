@@ -1,7 +1,7 @@
 import Mathlib.Data.Real.Basic
 import Mathlib.Data.Real.Irrational
-/-
-desc: Show that if $r ∈ ℐbb{Q}$ and that $r ≠ 0$ then we have that for any $x ∈ ℐbb{R}$ that is irrational we that both $rx$ and $r+x$ are irrational
+/-!
+desc: Show that if r ∈ ℚ and that r ≠ 0 then we have that for any x ∈ ℝ that is irrational we that both r*x and r+x are irrational
 difficulty: 0.5
 author: srivatsasrinivasmath
 -/
