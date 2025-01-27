@@ -1,6 +1,6 @@
 # Baby Rudin Project
 
-Welcome to the baby Rudin project. This is a collection of problems solved in Rudin along with their step-by-step natural language explanations.
+Welcome to the baby Rudin project. This is a collection of problems solved in Rudin along with their step-by-step natural language explanations. The goal of this project is to encourage new users of Lean to learn Lean better while contributing to a data set that can be used for machine learning in theorem proving.
 
 If you would like to contribute please do the following: 
 1. File an issue with the chapter and problem number from baby rudin
