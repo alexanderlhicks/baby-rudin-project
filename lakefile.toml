@@ -1,6 +1,6 @@
 name = "baby-rudin-project"
 version = "0.1.0"
-defaultTargets = ["baby-rudin-project"]
+defaultTargets = ["BabyRudinProject"]
 
 [[lean_lib]]
 name = "BabyRudinProject"
