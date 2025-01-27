@@ -32,7 +32,7 @@ For example, Problem 4 from Chapter 5 would go into the folder BabyRudinProject/
           pow_two, 
           -- 3 is a prime so if 3 ∣ m*m then 3∣m ∨ 3∣m
           Int.prime_three.dvd_mul, 
-          -- p ∨ p = p
+          -- p ∨ p ⇒ p
           or_self] at h
       exact h 
   ````
