@@ -5,10 +5,6 @@ defaultTargets = ["baby-rudin-project"]
 [[lean_lib]]
 name = "BabyRudinProject"
 
-[[lean_exe]]
-name = "baby-rudin-project"
-root = "Main"
-
 [[require]]
 name = "mathlib"
 scope = "leanprover-community"
