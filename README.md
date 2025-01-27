@@ -19,7 +19,7 @@ For example, Problem 4 from Chapter 5 would go into the folder BabyRudinProject/
     author: srivatsasrinivasmath
     -/
     ````
-- Every declaration in the file should be preceeded with a docstring comment <code> \-- description -\ </code> containing the natural language description of the declaration. Every tactic should be "appropriately" explained with comments. You can skip explaining a few tactics if they are "obvious". 
+- Every declaration in the file should be preceeded with a docstring comment <code> /-- description -/ </code> containing the natural language description of the declaration. Every tactic should be "appropriately" explained with comments. You can skip explaining a few tactics if they are "obvious". 
 
   For example, in Chapter 1 Problem 2 we see the following 
   ````lean4
