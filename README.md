@@ -18,7 +18,7 @@ For example, Problem 4 from Chapter 5 would go into the folder BabyRudinProject/
     desc: Show that if r ∈ ℚ and that r ≠ 0 then we have that for any x ∈ ℝ that is irrational we that both r*x and r+x are irrational
     difficulty: 0.5
     author: srivatsasrinivasmath
-    comment: This is a test comment
+    comments: This is a test comment
     -/
     ````
 - Every declaration in the file should be preceeded with a docstring comment <code> /-- description -/ </code> containing the natural language description of the declaration. Every tactic should be "appropriately" explained with comments. You can skip explaining a few tactics if they are "obvious". 
