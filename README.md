@@ -4,7 +4,7 @@ Welcome to the baby Rudin project. This is a collection of problems solved in Ru
 
 If you would like to contribute please do the following: 
 1. File an issue with the chapter and problem number from baby rudin
-2. Create a pull request solving that problem in the folder BabyRudinProject/Chapter<number>/Problem<number>.lean
+2. Create a pull request solving that problem in the folder BabyRudinProject/Chapter\<number\>/Problem\<number\>.lean
 For example, Problem 4 from Chapter 5 would go into the folder BabyRudinProject/Chapter5/Problem4.lean. The solution has to be of the following format
 - The start of the file should containt a comment enclosed by /-! -/ and should contain the following information: 
   - A natural language description of the problem, desc
@@ -19,7 +19,7 @@ For example, Problem 4 from Chapter 5 would go into the folder BabyRudinProject/
     author: srivatsasrinivasmath
     -/
     ````
-- Every declaration in the file should be preceeded with a docstring comment <code> \-- description -\ <\code> containing the natural language description of the declaration. Every tactic should be "appropriately" explained with comments. You can skip explaining a few tactics if they are "obvious". 
+- Every declaration in the file should be preceeded with a docstring comment <code> \-- description -\ </code> containing the natural language description of the declaration. Every tactic should be "appropriately" explained with comments. You can skip explaining a few tactics if they are "obvious". 
 
   For example, in Chapter 1 Problem 2 we see the following 
   ````lean4
