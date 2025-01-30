@@ -4,7 +4,7 @@ import Mathlib.Algebra.Group.Pointwise.Set.Basic
 /-!
 desc: Show that for any set A : Set α such that OrderedAddCommGroup α, we have that if A has an infimum then -A has a supremum and inf (A) = - sup (-A)
 author: srivatsasrinivasmath
-score: 
+score: 2 
 -/
 
 /--For any α that is an ordered additive commutative group, we have that for any set s of elements of α we have that the lower bounds of s are exactly the negative of the upper bounds of -s -/
